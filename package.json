@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "study-electron03",
+=======
+  "name": "electron-study",
+>>>>>>> cd090b119eeb1db1d15355be358ff19e4cec0113
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,9 +12,23 @@
     "start": "nodemon --watch main.js --exec npm run build",
     "build": "electron ."
   },
+<<<<<<< HEAD
   "keywords": [],
   "author": "",
   "license": "ISC",
+=======
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XFang666/electron-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XFang666/electron-study/issues"
+  },
+  "homepage": "https://github.com/XFang666/electron-study#readme",
+>>>>>>> cd090b119eeb1db1d15355be358ff19e4cec0113
   "devDependencies": {
     "electron": "^26.0.0"
   }
